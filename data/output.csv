@@ -1,0 +1,25 @@
+Average Sales Per Quarter for Each Product:
+Quarter,product_A,product_B,product_C,product_D
+Q1,89.0,48.0,41.33,28.67
+Q2,76.33,50.33,39.33,30.33
+Q3,77.0,63.0,32.33,39.0
+Q4,89.67,40.67,34.33,20.33
+
+Total Sales Per Quarter:
+Quarter,Total_Sales
+Q1,621
+Q2,589
+Q3,634
+Q4,555
+
+Total Sales Per Quarter:
+Quarter,Total_Sales
+Q1,621
+Q2,589
+Q3,634
+Q4,555
+
+Key Insights:
+Best Month: November (237 units)
+Best Product: product_A (996 units)
+Best Quarter: Q3 (634 units)
